@@ -11,13 +11,14 @@ const CardsMovieDetails = () => {
     const [movie, setMovie] = useState(null);
 
     useEffect(() => {
+        const getMovies = async () => {
+            const resp = await Get(url);
+            setMovie(resp);
+        }
         getMovies();
-    }, []);
+    }, [url]);
 
-    const getMovies = async () => {
-        const resp = await Get(url);
-        setMovie(resp);
-    }
+    
 
     const removeMovie = async () => {
         await DeleteMovie(url);
