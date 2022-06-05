@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/simulacro/static/js/main.9b6dea06.js",
+    "main.js": "/simulacro/static/js/main.e47dbad6.js",
     "index.html": "/simulacro/index.html",
-    "main.9b6dea06.js.map": "/simulacro/static/js/main.9b6dea06.js.map"
+    "main.e47dbad6.js.map": "/simulacro/static/js/main.e47dbad6.js.map"
   },
   "entrypoints": [
-    "static/js/main.9b6dea06.js"
+    "static/js/main.e47dbad6.js"
   ]
 }
