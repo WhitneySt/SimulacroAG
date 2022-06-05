@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/SimulacroAG/static/js/main.9b6dea06.js",
-    "index.html": "/SimulacroAG/index.html",
-    "main.9b6dea06.js.map": "/SimulacroAG/static/js/main.9b6dea06.js.map"
+    "main.js": "/simulacro/static/js/main.9b6dea06.js",
+    "index.html": "/simulacro/index.html",
+    "main.9b6dea06.js.map": "/simulacro/static/js/main.9b6dea06.js.map"
   },
   "entrypoints": [
     "static/js/main.9b6dea06.js"
